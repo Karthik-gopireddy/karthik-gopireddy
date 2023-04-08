@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm GOPIREDDY KARTHIK</h1>
 <h3 align="center">while(alive){<br>eat();<br>code();<br>sleep();<br>}</h3>
-<img align="right" width=400 alt="coding" src="https://media1.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47jhp6ci9uqx3snp3t76yp1jd5k7i2mfamsezcgzre&rid=giphy.gif&ct=g">
+<img align="right" width=400 alt="coding" src="https://media1.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif?cid=ecf05e47masnmjwtvdu4mfet5jtkpc85bjftl3b615u4y8ke&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nari2002&label=Profile%20views&color=0e75b6&style=flat" alt="karthik2001" /> </p>
 
