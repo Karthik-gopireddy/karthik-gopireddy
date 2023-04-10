@@ -18,7 +18,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/karthikgopireddy2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karthikgopireddy2001 " height="30" width="40" /></a>
-<a href="https://kaggle.com/karthikgopireddy2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="karthikgopireddy2001" height="30" width="40" /></a>
 <a href="https://fb.com/karthik-gopireddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="karthik gopireddy" height="30" width="40" /></a>
 <a href="https://instagram.com/gopireddykarthik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gopireddykarthik" height="30" width="40" /></a>
 </p>
