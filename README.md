@@ -5,7 +5,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nari2002&label=Profile%20views&color=0e75b6&style=flat" alt="karthik2001" /> </p>
 
 
-- 🔭 I’m currently working on *STUDENT*
 
 - 🌱 I’m currently learning *Fullstack development in python*
 
